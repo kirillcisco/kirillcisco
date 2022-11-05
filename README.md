@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kirillcisco
-- 👀 I’m interested in:
-      - Networks,
-      - Gamedev,
-      - .NET, C#, powershell.
+- 👀 I’m interested in: \
+      - Networks, \
+      - Gamedev, \
+      - .NET, C#, powershell.\
 
 <!---
 kirillcisco/kirillcisco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
