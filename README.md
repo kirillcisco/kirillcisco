@@ -2,7 +2,7 @@
 - 👀 I’m interested in: \
       - Networks, \
       - Gamedev, \
-      - .NET, C#, powershell.\
+      - .NET, C#, powershell.
 
 <!---
 kirillcisco/kirillcisco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
