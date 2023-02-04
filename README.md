@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @kirillcisco
-- 👀 I’m interested in: \
-      - Networks, \
-      - Gamedev, \
-      - .NET, C#, powershell.
+### 👋 Hi, I’m @kirillcisco
+## 👀 I'm interested and looking for experience in: \
+      - 🌐 Networks (0L-3L), \
+      - 🕹️ Gamedev, \
+      - ⌨️ C#, Golang, powershell, batch.
 
-<!---
-kirillcisco/kirillcisco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
