@@ -1,10 +1,10 @@
-Hi 👋 My name is kirillcsico
+Hi 👋 My name is kirillcisco
 ============================
 
 Networks and gamedev enthusiast
 -----------------------------------
 
-*   🌍  I'm based in Saint Petersburg, Chișinău
+*   🌍  I'm based in Saint Petersburg
 *   ✉️  You can contact me at [kirillcisco@gmail.com](mailto:kirillcisco@gmail.com)
 *   🧠  I'm learning C#, C++, Ciena & Adva automation.
 *   🤝  I'm open to collaborating on game feature creation & 3+ Layer networking
