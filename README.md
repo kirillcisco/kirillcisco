@@ -6,7 +6,7 @@ Networks and gamedev enthusiast
 
 *   🌍  I'm based in Saint Petersburg
 *   ✉️  You can contact me at [kirillcisco@gmail.com](mailto:kirillcisco@gmail.com)
-*   🧠  I'm learning C#, C++, Ciena & Adva automation.
+*   🧠  I'm learning C#, C++, Ciena/Adva/Juniper/Extreme/Cisco automation.
 *   🤝  I'm open to collaborating on game feature creation & 3+ Layer networking
 
 <b>My github stats</b>
