@@ -1,13 +1,7 @@
 Hi 👋 My name is kirillcisco
 ============================
 
-Networks and gamedev enthusiast
------------------------------------
-
-*   🌍  I'm based in Saint Petersburg
-*   ✉️  You can contact me at [kirillcisco@gmail.com](mailto:kirillcisco@gmail.com)
-*   🧠  I'm learning C#, Python, Juniper/Extreme automation.
-*   🤝  I'm open to collaborating on game features & DevNet 
+*   🧠  I'm learning C#, Python, NetOps practices.
 
 <b>My github stats</b>
 
